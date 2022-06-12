@@ -21,7 +21,7 @@ body {
   font-family: 'Josefin Sans', sans-serif;
   background: var(--grd_first);
   background-size: 100vh;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
 }
 
 header {
